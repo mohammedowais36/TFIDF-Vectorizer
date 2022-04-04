@@ -1,1 +1,2 @@
 # TFIDF-Vectorizer
+Term frequency-inverse document frequency is a text vectorizer that transforms the text into a usable vector. It combines 2 concepts, Term Frequency (TF) and Document Frequency (DF). This project involves building a TFIDF Vectorizer & comparing its results with Sklearn and Implementing max features functionality, using the Bag-of-Words technique and libraries like pandas, NumPy, and sklearn.
